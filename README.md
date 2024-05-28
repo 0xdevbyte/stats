@@ -1,13 +1,13 @@
 ## 💼 Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,,bash,css,discord,git,github,html,lua,mongodb,pr,python,visualstudio,vscode," />
+    <img src="https://skillicons.dev/icons?i=bash,css,discord,html,lua,python,visualstudio,vscode," />
   </a>
 </p>
 
 ## 📜 Learning
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,dart,go,rust" />
+    <img src="https://skillicons.dev/icons?i=go,rust" />
   </a>
 </p>
 
